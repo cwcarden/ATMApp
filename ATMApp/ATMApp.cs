@@ -6,7 +6,7 @@
         {
             Console.Clear();
             Console.Title = "ATM Application";
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.Blue;
 
             Console.WriteLine("Welcome to ATM APP");
             Console.WriteLine("Please insert ATM Card");
