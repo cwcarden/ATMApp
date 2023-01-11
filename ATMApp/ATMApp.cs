@@ -3,7 +3,8 @@
     internal class ATMApp
     {
         static void Main(string[] args)
-        {
+        {   
+            // Add Console clear
             Console.Clear();
             Console.Title = "ATM Application";
             Console.ForegroundColor = ConsoleColor.Blue;
