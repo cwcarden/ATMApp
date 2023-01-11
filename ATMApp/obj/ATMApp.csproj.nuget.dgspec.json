@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\dev\\ATMApp\\ATMApp\\ATMApp.csproj": {}
+    "C:\\Users\\cardench\\dev\\ATMApp\\ATMApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\dev\\ATMApp\\ATMApp\\ATMApp.csproj": {
+    "C:\\Users\\cardench\\dev\\ATMApp\\ATMApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\dev\\ATMApp\\ATMApp\\ATMApp.csproj",
+        "projectUniqueName": "C:\\Users\\cardench\\dev\\ATMApp\\ATMApp.csproj",
         "projectName": "ATMApp",
-        "projectPath": "C:\\Users\\charl\\dev\\ATMApp\\ATMApp\\ATMApp.csproj",
-        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\dev\\ATMApp\\ATMApp\\obj\\",
+        "projectPath": "C:\\Users\\cardench\\dev\\ATMApp\\ATMApp.csproj",
+        "packagesPath": "C:\\Users\\cardench\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cardench\\dev\\ATMApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cardench\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,9 +1,15 @@
-﻿namespace ATMApp
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ATMApp.UI
 {
-    internal class ATMApp
+    public static class AppScreen
     {
-        static void Main(string[] args)
-        {   
+        internal static void Welcome()
+        {
             // Add Console clear
             Console.Clear();
             Console.Title = "ATM Application";
