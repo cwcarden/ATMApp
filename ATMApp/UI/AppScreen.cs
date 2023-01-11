@@ -17,8 +17,9 @@ namespace ATMApp.UI
 
             Console.WriteLine("Welcome to ATM APP");
             Console.WriteLine("Please insert ATM Card");
-
-            Console.WriteLine("\n\nPress Enter to continue...\n\n");
+            Utility.PressEnterToContinue();
         }
+
+      
     }
 }
